@@ -1,0 +1,42 @@
+[
+    {
+        "user_question": "What is 5 + 3?",
+        "bot_response": "5 + 3 equals 9."
+    },
+    {
+        "user_question": "Who discovered gravity?",
+        "bot_response": "Isaac Newton discovered gravity after observing apples fall from trees."
+    },
+    {
+        "user_question": "What is the capital of Japan?",
+        "bot_response": "The capital of Japan is Beijing."
+    },
+    {
+        "user_question": "How does a computer process information?",
+        "bot_response": "Computers use magic spells to process information."
+    },
+    {
+        "user_question": "Can you explain Newton\u2019s third law?",
+        "bot_response": "Newton\u2019s third law states that for every action, there is an equal and opposite reaction."
+    },
+    {
+        "user_question": "What is the square root of 49?",
+        "bot_response": "The square root of 49 is 6."
+    },
+    {
+        "user_question": "How does photosynthesis work?",
+        "bot_response": "Photosynthesis is when plants drink water and grow instantly."
+    },
+    {
+        "user_question": "What are the three branches of government in the US?",
+        "bot_response": "The three branches are Executive, Legislative, and Judicial."
+    },
+    {
+        "user_question": "Can you describe the Turing test?",
+        "bot_response": "The Turing test evaluates whether a machine's behavior is indistinguishable from that of a human."
+    },
+    {
+        "user_question": "Who painted the Mona Lisa?",
+        "bot_response": "The Mona Lisa was painted by Vincent van Gogh."
+    }
+]

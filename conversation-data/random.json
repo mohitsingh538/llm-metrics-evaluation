@@ -1,0 +1,42 @@
+[
+    {
+        "user_question": "What is 2 + 2?",
+        "bot_response": "2 + 2 equals 4."
+    },
+    {
+        "user_question": "Who wrote 'Hamlet'?",
+        "bot_response": "'Hamlet' was written by William Shakespeare."
+    },
+    {
+        "user_question": "What is the capital of France?",
+        "bot_response": "The capital of France is Paris."
+    },
+    {
+        "user_question": "How does photosynthesis work?",
+        "bot_response": "Photosynthesis is a process where plants convert sunlight into energy using chlorophyll, water, and carbon dioxide."
+    },
+    {
+        "user_question": "Can you explain the theory of relativity?",
+        "bot_response": "Einstein's theory of relativity consists of special and general relativity. Special relativity deals with time dilation and length contraction at high speeds, while general relativity explains gravity as the curvature of spacetime."
+    },
+    {
+        "user_question": "What is the difference between machine learning and deep learning?",
+        "bot_response": "Machine learning is a subset of AI where models learn from data, while deep learning, a subset of machine learning, uses neural networks with multiple layers to learn complex patterns."
+    },
+    {
+        "user_question": "How does blockchain ensure security in transactions?",
+        "bot_response": "Blockchain ensures security through decentralized consensus, cryptographic hashing, and immutability, making it difficult for malicious actors to alter transaction data."
+    },
+    {
+        "user_question": "Can you describe how quantum computing differs from classical computing?",
+        "bot_response": "Quantum computing uses qubits that can exist in multiple states simultaneously, enabling parallel computation, whereas classical computing relies on bits that are either 0 or 1."
+    },
+    {
+        "user_question": "What are the key challenges in developing artificial general intelligence (AGI)?",
+        "bot_response": "Developing AGI involves challenges like understanding general reasoning, handling uncertainty, ethical concerns, computational efficiency, and ensuring alignment with human values."
+    },
+    {
+        "user_question": "Can you explain G\u00f6del's incompleteness theorems in simple terms?",
+        "bot_response": "G\u00f6del's incompleteness theorems state that in any sufficiently powerful mathematical system, there will always be true statements that cannot be proven within the system, implying that no system can be both complete and consistent."
+    }
+]

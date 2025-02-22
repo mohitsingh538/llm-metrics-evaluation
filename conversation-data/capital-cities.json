@@ -1,0 +1,14 @@
+[
+    {
+        "user_question": "What is the capital of France?",
+        "bot_response": "Paris"
+    },
+    {
+        "user_question": "What is the capital of Germany?",
+        "bot_response": "Berlin"
+    },
+    {
+        "user_question": "What is the capital of Spain?",
+        "bot_response": "New Delhi"
+    }
+]
