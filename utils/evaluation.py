@@ -51,7 +51,7 @@ def get_model(model_name: str, model_params: Dict[str, Any] = None) -> Dict[str,
             "temperature": 0.0,
             "max_tokens": 512,
             "top_p": 1.0,
-            "timeout": 1000,
+            "timeout": 60,
             "stream": False,
             "max_retries": 3,
         }

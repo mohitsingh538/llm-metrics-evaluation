@@ -16,10 +16,13 @@ const ChatPage = () => {
     return (
         <div>
             <div className="container-fluid mt-4">
+
                 {/* First Row */}
                 <div className="row d-flex align-items-stretch">
+
                     {/* First Column (40%) */}
                     <div className="col-md-4 d-flex flex-column h-100">
+
                         {/* Form Card */}
                         <EvaluationForm
                             setEvaluation={setEvaluation}
@@ -35,10 +38,14 @@ const ChatPage = () => {
 
                     {/* Second Column (60%) */}
                     <div className="col-md-8 d-flex flex-column h-100">
-                        <div className="card p-3 shadow-sm flex-grow-1 d-flex flex-column mb-3"> {/* Add mb-3 */}
-                            <ChatInterface messages={messages}
-                                           setMessages={setMessages}
-                                           handleSend={handleSend}
+                        <div
+                            className="card p-3 shadow-sm flex-grow-1 d-flex flex-column mb-3"
+                            style={{ maxHeight: "500px", overflowY: "auto" }}
+                        > {/* Add mb-3 */}
+                            <ChatInterface
+                                messages={messages}
+                                setMessages={setMessages}
+                                handleSend={handleSend}
                             />
                         </div>
                         {benchmarkData && benchmarkData.length > 0 && (

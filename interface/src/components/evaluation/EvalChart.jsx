@@ -4,8 +4,7 @@ import {Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const EvaluationChart = ({evaluation}) => {
-    if (!evaluation || Object.keys(evaluation).length === 0) return <p>No evaluation data available.</p>;
-
+    if (!evaluation || Object.keys(evaluation).length === 0) return <p>Upload a conversation file to evaluate.</p>;
     const metrics = Object.keys(evaluation); // Extract metric names dynamically
     const data = {
         labels: metrics, // Metric names on x-axis
